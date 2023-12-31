@@ -3,7 +3,7 @@ layout: default
 ---
 Hello!
 ## Links
-[Google Scholar](https://scholar.google.com/citations?user=94XdoYsAAAAJ&hl=en){:target="_blank"},[LinkedIn](https://www.linkedin.com/in/toan-q-nguyen/){:target="_blank"},[Github](https://github.com/tnq177){:target="_blank"}
+[Google Scholar](https://scholar.google.com/citations?user=94XdoYsAAAAJ&hl=en){:target="_blank"},[LinkedIn](https://www.linkedin.com/in/toan-q-nguyen/){:target="_blank"},[Github](https://github.com/tnq177){:target="_blank"}, [Semantic Scholar](https://www.semanticscholar.org/author/Toan-Q.-Nguyen/32125163)
 
 ## Artifacts
 * [Thesis](assets/docs/ToanNguyenThesis.pdf)
