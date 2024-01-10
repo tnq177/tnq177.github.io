@@ -3,7 +3,11 @@ layout: default
 ---
 Hi there!
 ## Links
-[Google Scholar](https://scholar.google.com/citations?user=94XdoYsAAAAJ&hl=en){:target="_blank"},[LinkedIn](https://www.linkedin.com/in/toan-q-nguyen/){:target="_blank"},[Github](https://github.com/tnq177){:target="_blank"},[Semantic Scholar](https://www.semanticscholar.org/author/Toan-Q.-Nguyen/32125163)
+* [Google Scholar](https://scholar.google.com/citations?user=94XdoYsAAAAJ&hl=en){:target="_blank"}
+* [LinkedIn](https://www.linkedin.com/in/toan-q-nguyen/){:target="_blank"}
+* [Github](https://github.com/tnq177){:target="_blank"}
+* [Semantic Scholar](https://www.semanticscholar.org/author/Toan-Q.-Nguyen/32125163)
+* [Blog](./blog/index)
 
 ## Artifacts
 * [Thesis](assets/docs/ToanNguyenThesis.pdf)
@@ -11,5 +15,7 @@ Hi there!
 * [(IWSLT 2019) Transformers Without Tears](assets/docs/transformers_without_tears.pdf){:target="_blank"}
 * [(NACCL 2018) Improving Lexical Choice in Neural Machine Translation](assets/docs/slides_improving_lexical_choice_in_nmt.pdf){:target="_blank"}
 * [(IJCNLP 2017) Transfer Learning across Low-Resource, Related Languages for Neural Machine Translation](assets/docs/poster_nmt_xfer_related_low_resource.pdf){:target="_blank"}
+
+
 
 [](./danang)
